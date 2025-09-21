@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/habeebanuoluwapo/community-conflict-resolution)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/habeebanuoluwapo/community-conflict-resolution/blob/main/LICENSE)
 [![Blockchain](https://img.shields.io/badge/blockchain-Stacks-orange)](https://stacks.co/)
+[![Development](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/habeebanuoluwapo/community-conflict-resolution)
 
 A decentralized platform for managing community disputes through blockchain-based dispute management, mediation coordination, and resolution tracking systems to promote peaceful conflict resolution and community healing.
 
