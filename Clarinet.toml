@@ -1,0 +1,29 @@
+[project]
+name = 'community-conflict-resolution'
+description = ''
+authors = []
+telemetry = false
+cache_dir = './.cache'
+requirements = []
+[contracts.dispute-management]
+path = 'contracts/dispute-management.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.mediation-coordination]
+path = 'contracts/mediation-coordination.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.resolution-tracking]
+path = 'contracts/resolution-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
